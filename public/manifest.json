@@ -1,0 +1,27 @@
+{
+  "name": "Mood Journal Pro",
+  "short_name": "Mood",
+  "description": "Daily mood tracking, gratitude log, AI insights.",
+  "start_url": "/mood-journal-pro/",
+  "scope": "/mood-journal-pro/",
+  "display": "standalone",
+  "background_color": "#0a080f",
+  "theme_color": "#a855f7",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/mood-journal-pro/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/mood-journal-pro/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
